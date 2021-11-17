@@ -1,0 +1,109 @@
+.fundo-principal{
+    background: rgb(64,64,64);
+    background: linear-gradient(90deg, rgba(64,64,64,1) 0%, rgba(23,44,52,1) 37%, rgba(11,48,66,1) 87%); 
+    color: white;
+    padding: 20px;
+}
+
+.moldura {
+    border: 2px  white dotted;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.subtitulo-principal {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid white;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: #5FC2D4;
+}
+
+.nome-instituicao{
+    margin-bottom: 5px;
+}
+
+.instutuicao {
+    margin-bottom: 20px;
+}
+
+
+#informacoes-pessoais {
+    background-color: rgb(30, 61, 78);
+    padding: 15px;
+}
+
+
+.subtitulo-contato {
+    background: rgb(11,48,66);
+    background: linear-gradient(90deg, rgba(11,48,66,1) 0%, rgba(20,161,189,1) 90%); 
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 30px;
+    margin-top: 15px;
+    border-end-end-radius: 30px;
+    border-start-end-radius: 30px;
+}
+.descricao-subtitulo{
+    padding: 5px;
+}
+
+img.foto-curriculo {
+    border-radius: 10px 10px 10px 10px;
+    width: auto;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.hobbie-descricao{
+    margin-top: 10px;
+}
+
+.hobbie-item{
+    text-align: center;
+    border: 2px  white solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.pontuacao{
+    margin: 3px;
+}
+
+.pontuacao-ativa {
+    color: #14a1bd;
+}
+
+.barra-de-progresso{
+    background: rgb(11,48,66);
+    background: linear-gradient(90deg, rgba(11,48,66,1) 0%, rgba(20,161,189,1) 90%);
+}
+
+.icones-subtitulo{
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.icones-principais{
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.icones-contato{
+    text-align: center;
+    color: #5FC2D4;
+}
+
+.icones-hobbies {
+    color: #5FC2D4;
+
+}
